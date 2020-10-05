@@ -1,5 +1,7 @@
 ## shop-vue移动端商城APP
 
+## 后面更改的并没有跟新到此文档
+
 ### 项目概要
 
 * 本项目用到的技术栈： vue-cli + vue-router + vuex + axios + vue-axios + vant( UI )
